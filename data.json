@@ -1,0 +1,34 @@
+[
+  {
+    "id": "id1",
+    "title": "Product 1",
+    "imageUrl": "/image/mohammad-rahmani-1bNQVGzuy0U-unsplash.jpg",
+    "desc": "This Is Product 1",
+    "price": 30,
+    "sizes": ["S", "M"]
+  },
+  {
+    "id": "id2",
+    "title": "Product 2",
+    "imageUrl": "/image/image1",
+    "desc": "This is Product 2",
+    "price": 50,
+    "sizes": ["XL", "L"]
+  },
+  {
+    "id": "id3",
+    "title": "Product 3",
+    "imageUrl": "/image/image2",
+    "desc": "This is Product 3",
+    "price": 70,
+    "sizes": ["S", "M", "L"]
+  },
+  {
+    "id": "id4",
+    "title": "Product 4",
+    "imageUrl": "/image/image3",
+    "desc": "This is Product 4",
+    "price": 90,
+    "sizes": ["S", "M"]
+  }
+]
