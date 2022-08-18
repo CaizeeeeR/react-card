@@ -1,6 +1,6 @@
 footer {
   grid-area: footer;
-  background-color: #2a5ae5;
+  background-color: red;
   color: #fff;
   display: flex;
   justify-content: center;
