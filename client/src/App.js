@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Footer from "./components/Footer/Footer.js";
 import Header from "./components/Header/Header.js";
-import Products from "./components/products/Products.js";
+import Products from "./components/products/Products";
 // import { words } from "./wordsFile.js";
 import data from "./data.json";
 
