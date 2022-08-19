@@ -28,11 +28,3 @@ main {
   display: flex;
   justify-content: space-between;
 }
-
-.wrapper .product-wrapper {
-  width: 68%;
-}
-
-.wrapper .filtter-wrapper {
-  width: 30%;
-}

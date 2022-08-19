@@ -4,14 +4,14 @@ import ProductModal from "./ProductModal";
 
 function Products(props) {
 
-  const [product, setProduct] = useState("");
+  const [Content, setContent] = useState("");
 
-  const openModal = (product) => {
-    setProduct(product)
+  const openModal = (Content) => {
+    setContent(Content)
   }
 
   const closeModal = () => {
-    setProduct(false)
+    setContent(false)
   }
 
   return (
@@ -30,7 +30,7 @@ function Products(props) {
         </div>
       ))}
 
-     <ProductModal product={product} closeModal={closeModal} />
+     <ProductModal goContent={Content} closeModal={closeModal} />
 
     </div>
   );
