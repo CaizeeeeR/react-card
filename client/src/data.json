@@ -20,7 +20,7 @@
     "title": "Product 3",
     "imageUrl": "/image/img3.jpg",
     "desc": "This is Product 3",
-    "price": 70,
+    "price": 300,
     "sizes": ["S", "M", "L"]
   },
   {
