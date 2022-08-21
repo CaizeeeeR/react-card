@@ -1,0 +1,32 @@
+.checkout-form {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 30px;
+  background-color: #CCC;
+}
+.checkout-form form {
+  width: 60%;
+  margin: auto;
+}
+.checkout-form form > div {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+.checkout-form form input {
+  height: 40px;
+  padding: 5px;
+  border: 1px solid #c0c0c0;
+}
+.checkout-form form button {
+  height: 40px;
+}
+.checkout-form form .close-icon {
+  position: absolute;
+  top: 0;
+  right: 0;
+  font-size: 20px;
+  cursor: pointer;
+}
